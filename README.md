@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<h1 align="center">Hi 👋, I'm Kentin</h1>
 <div align="center">
   <h3>A result-driven Developer studying at Epitech Paris</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
 </div>
