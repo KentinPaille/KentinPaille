@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Haskell and JavaScript**
 
-- 📫 How to reach me **paul.thiebault@epitech.eu**
+- 📫 How to reach me **kentinpaille@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
