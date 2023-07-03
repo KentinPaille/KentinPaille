@@ -5,7 +5,7 @@
 
 - 📍 Presently studying abroad in **Berlin 🇩🇪**
 
-- 🌱 I’m currently learning **C++, Haskell and JavaScript**
+- 🌱 I’m currently learning **C++, Python and Haskell**
 
 - 📫 How to reach me **kentinpaille@gmail.com**
 
