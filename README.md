@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **C++, Python and Haskell**
 
+- ✈️ Feel free to discover my different projects
+  
 - 📫 How to reach me **kentinpaille@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
