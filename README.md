@@ -3,7 +3,7 @@
   <h3>A result-driven Developer studying at Epitech</h3> <img src="epitech logo.png" alt="Epitech Logo" width=35 height=30>
 </div>
 
-- 📍 Presently studying abroad in **Berlin 🇩🇪**
+- 📍 Presently studying abroad in **Korea KR**
 
 - 🌱 I’m currently learning **C++, Python and Haskell**
 
